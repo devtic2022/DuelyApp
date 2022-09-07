@@ -1,4 +1,46 @@
-@font-face {
+/* @font-face {
     font-family: myFirstFont;
     src: url("/Documentación/feather-2-cufonfonts/feather_bold_by_typicalbro44_dee263c.ttf") format("ttf");
+} */
+#fondo {
+    background-color: #E8E8E8;
 }
+.logo {
+    width: 180px;
+    margin-top: -22px;
+    margin-bottom: 20px;
+}
+.btn-login {
+    background-color: #00AFFE;
+    color: #ecf6fd;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 300px;
+    height: 70px;
+    font-size: 24px;
+    margin-top: -45px;
+    margin-right: -12px;
+}
+.btn-login:hover {
+    background-color: #61acf7;
+}
+.nav {
+    background-color: #fff;
+    height: 70px;
+}
+.parrafo-1 {
+    color: #00AFFE;
+    font-size: 50px;
+}
+.parrafo-2 {
+    color:#00AFFE;
+    font-size: 24px;
+}
+
+.img-interfaz {
+    width: 450px;
+    height: 300px;
+}
+.aside{
+    padding: 70px;
+}
+
