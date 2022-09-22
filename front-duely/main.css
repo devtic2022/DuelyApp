@@ -21,7 +21,11 @@
     height: 82px;
     margin-top: -14px;
 }
-
+.logo-1 {
+    width: 200px;
+    height: 150px;
+    margin-top: -14px;
+}
 .btn-login {
     background-color: #00AFFE;
     color: #ecf6fd;
@@ -91,6 +95,7 @@
 
 #btnRegister {
     background-color: #00AFFE;
+    border-color: #00AFFE;
     color: white;
     margin-top: 50px;
     margin-left: 20px;
@@ -100,4 +105,7 @@
 
 #btnRegister:hover {
     background-color: #0b3864;
+}
+.logo-modal{
+    margin-left: 30%;
 }

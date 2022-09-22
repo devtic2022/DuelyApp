@@ -1,4 +1,4 @@
-let color =   prompt('color favorito')
+/* let color =   prompt('color favorito')
 
 let fondo = document.getElementById('fondo')
 
@@ -11,5 +11,5 @@ if(color == 'azul'){
 else {
     alert('color no valido')
 }
-
+ */
 
